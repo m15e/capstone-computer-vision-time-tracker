@@ -21,9 +21,6 @@ Please note that the first version of this application unfortunately only runs o
 All files are contained in the timeNet.
 
 - The project report can be found under timeNet/mlnd_capstone.pdf
-- The pre-trained model is in the file timeNet/data/export.pkl
-- The training data can be found under timeNet/data/train/
-- The test data is under timeNet/data_test/test/
 - The test data label mapping can be found in timeNet/test.csv
 - The files for training the benchmark and final models can be found under timeNet/benchmark_model.ipynb and timeNet/classifier_training.ipynb
 
