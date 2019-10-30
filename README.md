@@ -4,6 +4,7 @@
 Building a desktop activity classifier for Mac by training a Convolutional Neural Network to distinguish between desktop screen activities using transfer learning.
 The final model achieves an accuracy of 97.24% on the test set.
 
+The project report and model results can be found at [https://github.com/m15e/capstone-computer-vision-time-tracker/blob/master/capstone_project.pdf](https://github.com/m15e/capstone-computer-vision-time-tracker/blob/master/capstone_project.pdf)
 
 ### Dependencies 
 ------
