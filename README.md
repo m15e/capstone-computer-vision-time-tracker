@@ -31,5 +31,4 @@ All files are contained in the timeNet.
 
 1. Open the terminal
 2. Navigate to the timenet folder
-3. Run ```python timeNet.py
-```
+3. Run `python timeNet.py`
